@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.h264
+*.pcap
+*.apk
+.DS_Store
+*.log
+.venv/
+venv/
